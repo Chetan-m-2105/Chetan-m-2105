@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chetan-m-2105
 - 👀 I’m interested in Data science 
-- 🌱 I’m currently learning Python and pandas   
+- 🌱 I’m currently learning Python , Numpy , pandas and Seaborn
 - 📫 How to reach me 
 - Gmail-Chetanmanju2@gmail.com
 -LinkdIn-https://www.linkedin.com/in/chetan-manjunatha-swamy-609786136
